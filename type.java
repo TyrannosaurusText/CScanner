@@ -1,0 +1,1 @@
+enum type { Operator, operatornotequals, IntConstant, FloatConstant, Keyword, Identifier, Invalid, None, MaybeValid}
